@@ -1,5 +1,5 @@
 # intoductory-momentum-trading
-A first example of a momentum-based trading strategy:
+A first example of a quantitative momentum-based trading strategy, as well as a quantitative value-based strategy:
 
 This repository contains a Jupyter Notebook implementing a basic momentum trading strategy. The strategy is designed to exploit short-term price trends in financial markets.
 
